@@ -1953,6 +1953,8 @@ function chartJsCtrl() {
  * GoogleMaps - Controller for data google maps
  */
 function GoogleMaps($scope) {
+
+
     $scope.mapOptions = {
         zoom: 11,
         center: new google.maps.LatLng(40.6700, -73.9400),
@@ -3325,13 +3327,21 @@ function jstreeCtrl($scope) {
 }
 
 
-function project($scope) {
+function project($scope, $http) {
     $scope.result = {};
-    $scope.showSearchResult = true;
     $scope.searchRestaurant = function(searchInput) {
-        $scope.showSearchResult = true;
         alert(searchInput);
-
+        
+        $http({
+            method : "GET",
+            url : "http://www.w3schools.com/angular/welcome.htm"
+        }).then(function mySucces(response) {
+            $scope.myWelcome = response.data;
+            alert("success");
+        }, function myError(response) {
+            $scope.myWelcome = response.statusText;
+            alert("error");
+        });
     }
 }
 
@@ -3381,13 +3391,13 @@ angular
     .controller('jstreeCtrl', jstreeCtrl)
     .controller('project', project)
     .controller('test', function project($scope) {
-        $scope.result = {};
-        $scope.showSearchResult = true;
-        $scope.searchRestaurant = function(searchInput) {
-            $scope.showSearchResult = true;
-            alert(searchInput);
-
-        }
+        //$scope.result = {};
+        //$scope.showSearchResult = true;
+        //$scope.searchRestaurant = function(searchInput) {
+        //    $scope.showSearchResult = true;
+        //    alert(searchInput);
+//
+        //}
     });
 
 

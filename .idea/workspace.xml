@@ -25,8 +25,8 @@
       <file leaf-file-name="controllers.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/controllers.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="492">
-              <caret line="3389" column="9" selection-start-line="3389" selection-start-column="9" selection-end-line="3389" selection-end-column="9" />
+            <state relative-caret-position="121">
+              <caret line="3333" column="8" selection-start-line="3333" selection-start-column="8" selection-end-line="3333" selection-end-column="8" />
               <folding>
                 <element signature="n#!!doc;n#MainCtrl#0" expanded="false" />
                 <element signature="n#!!block;n#MainCtrl#0" expanded="false" />
@@ -68,7 +68,10 @@
                 <element signature="e#8020#8305#0" expanded="false" />
                 <element signature="e#8326#9169#0" expanded="false" />
                 <element signature="n#!!doc;n#dashboardFlotTwo#0" expanded="false" />
-                <element signature="n#!!block;n#dashboardFlotTwo#0" expanded="false" />
+                <element signature="e#9448#10381#0" expanded="false" />
+                <element signature="e#10400#11389#0" expanded="false" />
+                <element signature="e#11411#12315#0" expanded="false" />
+                <element signature="e#12337#13628#0" expanded="false" />
                 <element signature="n#!!doc;n#dashboardFive#0" expanded="false" />
                 <element signature="n#!!block;n#dashboardFive#0" expanded="false" />
                 <element signature="n#!!doc;n#dashboardMap#0" expanded="false" />
@@ -89,13 +92,9 @@
                 <element signature="n#!!doc;n#wizardCtrl#0" expanded="false" />
                 <element signature="n#!!block;n#wizardCtrl#0" expanded="false" />
                 <element signature="n#!!doc;n#CalendarCtrl#0" expanded="false" />
-                <element signature="n#!!block;n#CalendarCtrl#0" expanded="false" />
                 <element signature="n#!!doc;n#chartJsCtrl#0" expanded="false" />
                 <element signature="n#!!block;n#chartJsCtrl#0" expanded="false" />
                 <element signature="n#!!doc;n#GoogleMaps#0" expanded="false" />
-                <element signature="n#!!block;n#GoogleMaps#0" expanded="false" />
-                <element signature="n#!!doc;n#nestableCtrl#0" expanded="false" />
-                <element signature="n#!!block;n#nestableCtrl#0" expanded="false" />
                 <element signature="n#!!doc;n#codeEditorCtrl#0" expanded="false" />
                 <element signature="n#!!block;n#codeEditorCtrl#0" expanded="false" />
                 <element signature="n#!!doc;n#ngGridCtrl#0" expanded="false" />
@@ -130,11 +129,22 @@
                 <element signature="n#!!block;n#datatablesCtrl#0" expanded="false" />
                 <element signature="n#!!block;n#truncateCtrl#0" expanded="false" />
                 <element signature="n#!!block;n#touchspinCtrl#0" expanded="false" />
+                <element signature="n#!!block;n#tourCtrl#0" expanded="false" />
                 <element signature="n#!!block;n#jstreeCtrl#0" expanded="false" />
-                <element signature="e#376486#377058#0" expanded="false" />
-                <element signature="e#377083#383836#0" expanded="false" />
-                <element signature="e#384061#384105#0" expanded="false" />
+                <element signature="e#376488#377060#0" expanded="false" />
+                <element signature="e#377085#383838#0" expanded="false" />
+                <element signature="e#384365#384409#0" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="directives.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/directives.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1399">
+              <caret line="573" column="5" selection-start-line="573" selection-start-column="5" selection-end-line="573" selection-end-column="5" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -142,8 +152,8 @@
       <file leaf-file-name="config.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/config.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="12388">
-              <caret line="665" column="0" selection-start-line="665" selection-start-column="0" selection-end-line="665" selection-end-column="0" />
+            <state relative-caret-position="94">
+              <caret line="859" column="10" selection-start-line="859" selection-start-column="10" selection-end-line="859" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -172,9 +182,11 @@
       <file leaf-file-name="topnavbar.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/common/topnavbar.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="70" selection-start-line="4" selection-start-column="70" selection-end-line="4" selection-end-column="70" />
-              <folding />
+            <state relative-caret-position="152">
+              <caret line="8" column="105" selection-start-line="8" selection-start-column="105" selection-end-line="8" selection-end-column="105" />
+              <folding>
+                <element signature="n#style#0;n#nav#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -182,8 +194,8 @@
       <file leaf-file-name="navigation.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/common/navigation.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="30" column="49" selection-start-line="30" selection-start-column="47" selection-end-line="30" selection-end-column="49" />
+            <state relative-caret-position="57">
+              <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -192,8 +204,8 @@
       <file leaf-file-name="dashboard_1.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/dashboard_1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="72" column="63" selection-start-line="72" selection-start-column="47" selection-end-line="72" selection-end-column="63" />
+            <state relative-caret-position="95">
+              <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#!!top" expanded="true" />
@@ -205,8 +217,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="508">
-              <caret line="74" column="7" selection-start-line="74" selection-start-column="7" selection-end-line="74" selection-end-column="7" />
+            <state relative-caret-position="204">
+              <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -234,10 +246,11 @@
         <option value="$PROJECT_DIR$/js/translations.js" />
         <option value="$PROJECT_DIR$/api.js" />
         <option value="$PROJECT_DIR$/views/api.js" />
+        <option value="$PROJECT_DIR$/js/directives.js" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/views/common/topnavbar.html" />
         <option value="$PROJECT_DIR$/views/dashboard_1.html" />
         <option value="$PROJECT_DIR$/js/controllers.js" />
-        <option value="$PROJECT_DIR$/views/common/topnavbar.html" />
       </list>
     </option>
   </component>
@@ -251,9 +264,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="304" />
-    <option name="width" value="978" />
-    <option name="height" value="775" />
+    <option name="x" value="54" />
+    <option name="y" value="-8" />
+    <option name="width" value="1320" />
+    <option name="height" value="784" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -322,6 +336,24 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="common" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="soen487_Project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="soen487_Project" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="js" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
@@ -333,7 +365,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/views" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/u4/soen_487/project/htmlVersion" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RecentsManager">
@@ -404,18 +436,18 @@
       <workItem from="1458834111809" duration="69000" />
       <workItem from="1458996147988" duration="1263000" />
       <workItem from="1459198729648" duration="830000" />
-      <workItem from="1459287376032" duration="13918000" />
+      <workItem from="1459287376032" duration="21578000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51856000" />
+    <option name="totallyTimeSpent" value="59516000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="304" y="0" width="978" height="775" extended-state="1" />
+    <frame x="54" y="-8" width="1320" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22869022" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16871166" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -447,7 +479,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="3" />
+      <option name="time" value="4" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -497,7 +529,10 @@
             <element signature="e#8020#8305#0" expanded="false" />
             <element signature="e#8326#9169#0" expanded="false" />
             <element signature="n#!!doc;n#dashboardFlotTwo#0" expanded="false" />
-            <element signature="n#!!block;n#dashboardFlotTwo#0" expanded="false" />
+            <element signature="e#9448#10381#0" expanded="false" />
+            <element signature="e#10400#11389#0" expanded="false" />
+            <element signature="e#11411#12315#0" expanded="false" />
+            <element signature="e#12337#13628#0" expanded="false" />
             <element signature="n#!!doc;n#dashboardFive#0" expanded="false" />
             <element signature="n#!!block;n#dashboardFive#0" expanded="false" />
             <element signature="n#!!doc;n#dashboardMap#0" expanded="false" />
@@ -518,13 +553,9 @@
             <element signature="n#!!doc;n#wizardCtrl#0" expanded="false" />
             <element signature="n#!!block;n#wizardCtrl#0" expanded="false" />
             <element signature="n#!!doc;n#CalendarCtrl#0" expanded="false" />
-            <element signature="n#!!block;n#CalendarCtrl#0" expanded="false" />
             <element signature="n#!!doc;n#chartJsCtrl#0" expanded="false" />
             <element signature="n#!!block;n#chartJsCtrl#0" expanded="false" />
             <element signature="n#!!doc;n#GoogleMaps#0" expanded="false" />
-            <element signature="n#!!block;n#GoogleMaps#0" expanded="false" />
-            <element signature="n#!!doc;n#nestableCtrl#0" expanded="false" />
-            <element signature="n#!!block;n#nestableCtrl#0" expanded="false" />
             <element signature="n#!!doc;n#codeEditorCtrl#0" expanded="false" />
             <element signature="n#!!block;n#codeEditorCtrl#0" expanded="false" />
             <element signature="n#!!doc;n#ngGridCtrl#0" expanded="false" />
@@ -559,10 +590,11 @@
             <element signature="n#!!block;n#datatablesCtrl#0" expanded="false" />
             <element signature="n#!!block;n#truncateCtrl#0" expanded="false" />
             <element signature="n#!!block;n#touchspinCtrl#0" expanded="false" />
+            <element signature="n#!!block;n#tourCtrl#0" expanded="false" />
             <element signature="n#!!block;n#jstreeCtrl#0" expanded="false" />
-            <element signature="e#376486#377058#0" expanded="false" />
-            <element signature="e#377083#383836#0" expanded="false" />
-            <element signature="e#384061#384105#0" expanded="false" />
+            <element signature="e#376488#377060#0" expanded="false" />
+            <element signature="e#377085#383838#0" expanded="false" />
+            <element signature="e#384365#384409#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -587,7 +619,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" column="61" selection-start-line="8" selection-start-column="61" selection-end-line="8" selection-end-column="61" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#nav#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -655,7 +689,10 @@
             <element signature="e#8020#8305#0" expanded="false" />
             <element signature="e#8326#9169#0" expanded="false" />
             <element signature="n#!!doc;n#dashboardFlotTwo#0" expanded="false" />
-            <element signature="n#!!block;n#dashboardFlotTwo#0" expanded="false" />
+            <element signature="e#9448#10381#0" expanded="false" />
+            <element signature="e#10400#11389#0" expanded="false" />
+            <element signature="e#11411#12315#0" expanded="false" />
+            <element signature="e#12337#13628#0" expanded="false" />
             <element signature="n#!!doc;n#dashboardFive#0" expanded="false" />
             <element signature="n#!!block;n#dashboardFive#0" expanded="false" />
             <element signature="n#!!doc;n#dashboardMap#0" expanded="false" />
@@ -676,13 +713,9 @@
             <element signature="n#!!doc;n#wizardCtrl#0" expanded="false" />
             <element signature="n#!!block;n#wizardCtrl#0" expanded="false" />
             <element signature="n#!!doc;n#CalendarCtrl#0" expanded="false" />
-            <element signature="n#!!block;n#CalendarCtrl#0" expanded="false" />
             <element signature="n#!!doc;n#chartJsCtrl#0" expanded="false" />
             <element signature="n#!!block;n#chartJsCtrl#0" expanded="false" />
             <element signature="n#!!doc;n#GoogleMaps#0" expanded="false" />
-            <element signature="n#!!block;n#GoogleMaps#0" expanded="false" />
-            <element signature="n#!!doc;n#nestableCtrl#0" expanded="false" />
-            <element signature="n#!!block;n#nestableCtrl#0" expanded="false" />
             <element signature="n#!!doc;n#codeEditorCtrl#0" expanded="false" />
             <element signature="n#!!block;n#codeEditorCtrl#0" expanded="false" />
             <element signature="n#!!doc;n#ngGridCtrl#0" expanded="false" />
@@ -717,10 +750,11 @@
             <element signature="n#!!block;n#datatablesCtrl#0" expanded="false" />
             <element signature="n#!!block;n#truncateCtrl#0" expanded="false" />
             <element signature="n#!!block;n#touchspinCtrl#0" expanded="false" />
+            <element signature="n#!!block;n#tourCtrl#0" expanded="false" />
             <element signature="n#!!block;n#jstreeCtrl#0" expanded="false" />
-            <element signature="e#376486#377058#0" expanded="false" />
-            <element signature="e#377083#383836#0" expanded="false" />
-            <element signature="e#384061#384105#0" expanded="false" />
+            <element signature="e#376488#377060#0" expanded="false" />
+            <element signature="e#377085#383838#0" expanded="false" />
+            <element signature="e#384365#384409#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -745,7 +779,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" column="61" selection-start-line="8" selection-start-column="61" selection-end-line="8" selection-end-column="61" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#nav#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -813,7 +849,10 @@
             <element signature="e#8020#8305#0" expanded="false" />
             <element signature="e#8326#9169#0" expanded="false" />
             <element signature="n#!!doc;n#dashboardFlotTwo#0" expanded="false" />
-            <element signature="n#!!block;n#dashboardFlotTwo#0" expanded="false" />
+            <element signature="e#9448#10381#0" expanded="false" />
+            <element signature="e#10400#11389#0" expanded="false" />
+            <element signature="e#11411#12315#0" expanded="false" />
+            <element signature="e#12337#13628#0" expanded="false" />
             <element signature="n#!!doc;n#dashboardFive#0" expanded="false" />
             <element signature="n#!!block;n#dashboardFive#0" expanded="false" />
             <element signature="n#!!doc;n#dashboardMap#0" expanded="false" />
@@ -834,13 +873,9 @@
             <element signature="n#!!doc;n#wizardCtrl#0" expanded="false" />
             <element signature="n#!!block;n#wizardCtrl#0" expanded="false" />
             <element signature="n#!!doc;n#CalendarCtrl#0" expanded="false" />
-            <element signature="n#!!block;n#CalendarCtrl#0" expanded="false" />
             <element signature="n#!!doc;n#chartJsCtrl#0" expanded="false" />
             <element signature="n#!!block;n#chartJsCtrl#0" expanded="false" />
             <element signature="n#!!doc;n#GoogleMaps#0" expanded="false" />
-            <element signature="n#!!block;n#GoogleMaps#0" expanded="false" />
-            <element signature="n#!!doc;n#nestableCtrl#0" expanded="false" />
-            <element signature="n#!!block;n#nestableCtrl#0" expanded="false" />
             <element signature="n#!!doc;n#codeEditorCtrl#0" expanded="false" />
             <element signature="n#!!block;n#codeEditorCtrl#0" expanded="false" />
             <element signature="n#!!doc;n#ngGridCtrl#0" expanded="false" />
@@ -875,10 +910,11 @@
             <element signature="n#!!block;n#datatablesCtrl#0" expanded="false" />
             <element signature="n#!!block;n#truncateCtrl#0" expanded="false" />
             <element signature="n#!!block;n#touchspinCtrl#0" expanded="false" />
+            <element signature="n#!!block;n#tourCtrl#0" expanded="false" />
             <element signature="n#!!block;n#jstreeCtrl#0" expanded="false" />
-            <element signature="e#376486#377058#0" expanded="false" />
-            <element signature="e#377083#383836#0" expanded="false" />
-            <element signature="e#384061#384105#0" expanded="false" />
+            <element signature="e#376488#377060#0" expanded="false" />
+            <element signature="e#377085#383838#0" expanded="false" />
+            <element signature="e#384365#384409#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -895,7 +931,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="6" column="114" selection-start-line="6" selection-start-column="93" selection-end-line="6" selection-end-column="114" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#nav#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -963,7 +1001,10 @@
             <element signature="e#8020#8305#0" expanded="false" />
             <element signature="e#8326#9169#0" expanded="false" />
             <element signature="n#!!doc;n#dashboardFlotTwo#0" expanded="false" />
-            <element signature="n#!!block;n#dashboardFlotTwo#0" expanded="false" />
+            <element signature="e#9448#10381#0" expanded="false" />
+            <element signature="e#10400#11389#0" expanded="false" />
+            <element signature="e#11411#12315#0" expanded="false" />
+            <element signature="e#12337#13628#0" expanded="false" />
             <element signature="n#!!doc;n#dashboardFive#0" expanded="false" />
             <element signature="n#!!block;n#dashboardFive#0" expanded="false" />
             <element signature="n#!!doc;n#dashboardMap#0" expanded="false" />
@@ -984,13 +1025,9 @@
             <element signature="n#!!doc;n#wizardCtrl#0" expanded="false" />
             <element signature="n#!!block;n#wizardCtrl#0" expanded="false" />
             <element signature="n#!!doc;n#CalendarCtrl#0" expanded="false" />
-            <element signature="n#!!block;n#CalendarCtrl#0" expanded="false" />
             <element signature="n#!!doc;n#chartJsCtrl#0" expanded="false" />
             <element signature="n#!!block;n#chartJsCtrl#0" expanded="false" />
             <element signature="n#!!doc;n#GoogleMaps#0" expanded="false" />
-            <element signature="n#!!block;n#GoogleMaps#0" expanded="false" />
-            <element signature="n#!!doc;n#nestableCtrl#0" expanded="false" />
-            <element signature="n#!!block;n#nestableCtrl#0" expanded="false" />
             <element signature="n#!!doc;n#codeEditorCtrl#0" expanded="false" />
             <element signature="n#!!block;n#codeEditorCtrl#0" expanded="false" />
             <element signature="n#!!doc;n#ngGridCtrl#0" expanded="false" />
@@ -1025,10 +1062,11 @@
             <element signature="n#!!block;n#datatablesCtrl#0" expanded="false" />
             <element signature="n#!!block;n#truncateCtrl#0" expanded="false" />
             <element signature="n#!!block;n#touchspinCtrl#0" expanded="false" />
+            <element signature="n#!!block;n#tourCtrl#0" expanded="false" />
             <element signature="n#!!block;n#jstreeCtrl#0" expanded="false" />
-            <element signature="e#376486#377058#0" expanded="false" />
-            <element signature="e#377083#383836#0" expanded="false" />
-            <element signature="e#384061#384105#0" expanded="false" />
+            <element signature="e#376488#377060#0" expanded="false" />
+            <element signature="e#377085#383838#0" expanded="false" />
+            <element signature="e#384365#384409#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1045,7 +1083,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="6" column="114" selection-start-line="6" selection-start-column="93" selection-end-line="6" selection-end-column="114" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#nav#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1085,13 +1125,6 @@
     <entry file="file://$PROJECT_DIR$/js/inspinia.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/directives.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-9977">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
@@ -1198,10 +1231,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/views/api.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="17" column="5" selection-start-line="13" selection-start-column="4" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#41#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/buttons.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="584">
+          <caret line="68" column="45" selection-start-line="68" selection-start-column="45" selection-end-line="68" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/directives.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1399">
+          <caret line="573" column="5" selection-start-line="573" selection-start-column="5" selection-end-line="573" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/js/config.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12388">
-          <caret line="665" column="0" selection-start-line="665" selection-start-column="0" selection-end-line="665" selection-end-column="0" />
+        <state relative-caret-position="94">
+          <caret line="859" column="10" selection-start-line="859" selection-start-column="10" selection-end-line="859" selection-end-column="10" />
           <folding />
         </state>
       </provider>
@@ -1214,44 +1273,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/api.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="17" column="5" selection-start-line="13" selection-start-column="4" selection-end-line="17" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#41#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="508">
-          <caret line="74" column="7" selection-start-line="74" selection-start-column="7" selection-end-line="74" selection-end-column="7" />
+        <state relative-caret-position="204">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/common/navigation.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="30" column="49" selection-start-line="30" selection-start-column="47" selection-end-line="30" selection-end-column="49" />
+        <state relative-caret-position="57">
+          <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/buttons.html">
+    <entry file="file://$PROJECT_DIR$/views/common/topnavbar.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="584">
-          <caret line="68" column="45" selection-start-line="68" selection-start-column="45" selection-end-line="68" selection-end-column="67" />
-          <folding />
+        <state relative-caret-position="152">
+          <caret line="8" column="105" selection-start-line="8" selection-start-column="105" selection-end-line="8" selection-end-column="105" />
+          <folding>
+            <element signature="n#style#0;n#nav#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/dashboard_1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="72" column="63" selection-start-line="72" selection-start-column="47" selection-end-line="72" selection-end-column="63" />
+        <state relative-caret-position="95">
+          <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#!!top" expanded="true" />
@@ -1259,18 +1310,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/common/topnavbar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="70" selection-start-line="4" selection-start-column="70" selection-end-line="4" selection-end-column="70" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/controllers.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="492">
-          <caret line="3389" column="9" selection-start-line="3389" selection-start-column="9" selection-end-line="3389" selection-end-column="9" />
+        <state relative-caret-position="121">
+          <caret line="3333" column="8" selection-start-line="3333" selection-start-column="8" selection-end-line="3333" selection-end-column="8" />
           <folding>
             <element signature="n#!!doc;n#MainCtrl#0" expanded="false" />
             <element signature="n#!!block;n#MainCtrl#0" expanded="false" />
@@ -1312,7 +1355,10 @@
             <element signature="e#8020#8305#0" expanded="false" />
             <element signature="e#8326#9169#0" expanded="false" />
             <element signature="n#!!doc;n#dashboardFlotTwo#0" expanded="false" />
-            <element signature="n#!!block;n#dashboardFlotTwo#0" expanded="false" />
+            <element signature="e#9448#10381#0" expanded="false" />
+            <element signature="e#10400#11389#0" expanded="false" />
+            <element signature="e#11411#12315#0" expanded="false" />
+            <element signature="e#12337#13628#0" expanded="false" />
             <element signature="n#!!doc;n#dashboardFive#0" expanded="false" />
             <element signature="n#!!block;n#dashboardFive#0" expanded="false" />
             <element signature="n#!!doc;n#dashboardMap#0" expanded="false" />
@@ -1333,13 +1379,9 @@
             <element signature="n#!!doc;n#wizardCtrl#0" expanded="false" />
             <element signature="n#!!block;n#wizardCtrl#0" expanded="false" />
             <element signature="n#!!doc;n#CalendarCtrl#0" expanded="false" />
-            <element signature="n#!!block;n#CalendarCtrl#0" expanded="false" />
             <element signature="n#!!doc;n#chartJsCtrl#0" expanded="false" />
             <element signature="n#!!block;n#chartJsCtrl#0" expanded="false" />
             <element signature="n#!!doc;n#GoogleMaps#0" expanded="false" />
-            <element signature="n#!!block;n#GoogleMaps#0" expanded="false" />
-            <element signature="n#!!doc;n#nestableCtrl#0" expanded="false" />
-            <element signature="n#!!block;n#nestableCtrl#0" expanded="false" />
             <element signature="n#!!doc;n#codeEditorCtrl#0" expanded="false" />
             <element signature="n#!!block;n#codeEditorCtrl#0" expanded="false" />
             <element signature="n#!!doc;n#ngGridCtrl#0" expanded="false" />
@@ -1374,10 +1416,11 @@
             <element signature="n#!!block;n#datatablesCtrl#0" expanded="false" />
             <element signature="n#!!block;n#truncateCtrl#0" expanded="false" />
             <element signature="n#!!block;n#touchspinCtrl#0" expanded="false" />
+            <element signature="n#!!block;n#tourCtrl#0" expanded="false" />
             <element signature="n#!!block;n#jstreeCtrl#0" expanded="false" />
-            <element signature="e#376486#377058#0" expanded="false" />
-            <element signature="e#377083#383836#0" expanded="false" />
-            <element signature="e#384061#384105#0" expanded="false" />
+            <element signature="e#376488#377060#0" expanded="false" />
+            <element signature="e#377085#383838#0" expanded="false" />
+            <element signature="e#384365#384409#0" expanded="false" />
           </folding>
         </state>
       </provider>

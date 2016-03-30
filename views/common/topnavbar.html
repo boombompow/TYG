@@ -6,7 +6,7 @@
                     <div class="input-group">
                         <input type="text" placeholder="Restaurant Name..." name="search" class="form-control input-lg" ng-model="searchInput">
                         <div class="input-group-btn">
-                            <button class="btn btn-primary btn-sm"  type="submit">Search</button>
+                            <button class="btn btn-primary btn-sm" ng-click="searchRestaurant(searchInput)" type="submit">Search</button>
 
                         </div>
                     </div>
@@ -156,3 +156,13 @@
 
     </nav>
 </div>
+
+<script>
+    var app = angular.module('myApp', []);
+    app.controller('myCtrl', function($scope) {
+        $scope.count = 0;
+        $scope.myFunction = function() {
+          alert("hello");
+        }
+    });
+</script>

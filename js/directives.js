@@ -564,6 +564,16 @@ function markdownEditor() {
     }
 };
 
+function project($scope) {
+    $scope.result = {};
+    $scope.showSearchResult = true;
+    $scope.searchRestaurant = function(searchInput) {
+        $scope.showSearchResult = true;
+        alert(searchInput);
+
+    }
+}
+
 /**
  *
  * Pass all functions into module
